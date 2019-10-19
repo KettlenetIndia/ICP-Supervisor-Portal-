@@ -1,0 +1,3 @@
+target 'ivory' do
+pod 'Firebase/Analytics'
+end
